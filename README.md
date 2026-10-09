@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Prakhar Garhwal 👋
 
-<!--
-**Prxkhxr-ux/Prxkhxr-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer · Product Builder · Software Developer
 
-Here are some ideas to get you started:
+I enjoy building intelligent products that combine **AI, software engineering, and product thinking**. I'm currently pursuing a B.Tech in Computer Science Engineering at LNCT, Bhopal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Building:** SYNAPSE — a connected knowledge and collaboration workspace
+- 🌱 **Exploring:** Agentic AI, Python, AI-powered applications, and product development
+- 💡 **Interested in:** AI engineering, software development, and technical product management
+- 🛠️ **Tools I use:** Python, C++, Git, GitHub, and modern AI development tools
+- 🎯 **Goal:** Build useful products that solve real-world problems
+
+---
+
+### 🚀 Featured Projects
+
+*More projects and detailed documentation coming soon.*
+
+- **SYNAPSE** — A knowledge and collaboration workspace connecting projects, files, code, and AI.
+- **Urban Grow** — A product concept connecting urban residents with local nurseries.
+- **Light AI** — An AI-powered desktop assistant concept.
+- **EPAM Project Development Program** — Programming assignments and projects.
+
+---
+
+### 🤝 Connect With Me
+
+- GitHub: [@Prxkhxr-ux](https://github.com/Prxkhxr-ux)
+
+*Always learning. Always building.*
